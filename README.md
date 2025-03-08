@@ -12,7 +12,7 @@ The system provides:
 ## Key Features
 - **Document Upload**: Intuitive interface for uploading scanned documents with metadata tagging.
 ![DURA Upload Interface](Images/DuraUpload.png)
-![DURA Upload Interface](Images/DuraUploadExample.png)
+![DURA Upload Interface](Images/DURAUploadExample.png)
 
 - **Document Approval**: Simple and straightforward approval process for admins.
 ![DURA Upload Interface](Images/DuraAdmin.png)
