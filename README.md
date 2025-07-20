@@ -16,10 +16,13 @@ The system provides:
 
 - **Document Approval**: Simple and straightforward approval process for admins.
 ![DURA Upload Interface](Images/DuraAdmin.png)
-![DURA Upload Interface](Images/DURA(4).png)
+![DURA Upload Interface](Images/DURA%20(4).png)
 
 - **Search & Retrieval**: Powerful search capabilities across document content and metadata.
+![DURA Upload Interface](Images/DURA%20(3).png)
+![DURA Upload Interface](Images/DURA%20(2).png)
 ![DURA Search Interface](Images/DuraRetrieve.png)
+![DURA Upload Interface](Images/DURA%20(1).png)
 
 - **Document Request System**: Workflow for requesting access to archived documents.
 
