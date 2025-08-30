@@ -1,7 +1,7 @@
 # DURA
 
 ## Project Overview
-DURA is an internal document management system developed on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). It facilitates the electronic scanning, uploading, approval, and retrieval of documents to and from the company archives. Includes request management functionality for accessing stored documents.
+DURA is an internal document management system developed on Microsoft PowerPlatform (PowerApps, Power Automate, Dataverse). It facilitates the electronic scanning, uploading, approval, and retrieval of documents to and from the company archives. Includes request management functionality for accessing stored documents. 
 ![DURA Upload Interface](Images/DuraMain.png)
 
 The system provides:
